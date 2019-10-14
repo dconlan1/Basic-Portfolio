@@ -29,5 +29,7 @@ Please [open an issue](https://github.com/fraction/dconlan/issues/new) for suppo
 
 <img width="1003" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/52613691/66731072-36eb8880-ee0a-11e9-9ce6-e9a03ebea96d.png">
 
+<img width="1439" alt="Screen Shot 2019-10-13 at 7 12 12 PM" src="https://user-images.githubusercontent.com/52613691/66731093-68645400-ee0a-11e9-80ac-754e684551de.png">
+
 
 

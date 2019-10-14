@@ -31,5 +31,5 @@ Please [open an issue](https://github.com/fraction/dconlan/issues/new) for suppo
 
 <img width="1439" alt="Screen Shot 2019-10-13 at 7 12 12 PM" src="https://user-images.githubusercontent.com/52613691/66731093-68645400-ee0a-11e9-80ac-754e684551de.png">
 
-
+<img width="1038" alt="Screen Shot 2019-10-13 at 10 40 56 PM" src="https://user-images.githubusercontent.com/52613691/66731132-8cc03080-ee0a-11e9-9c5d-579f3703c6ac.png">
 
